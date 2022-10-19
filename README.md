@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SweetWeeds)](https://github.com/anuraghazra/github-readme-stats)
+### :thought_balloon: Problem Solving
+[![SweetWeeds's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khk0297)](https://solved.ac/profile/khk0297)  
